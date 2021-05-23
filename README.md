@@ -8,7 +8,10 @@ mujoco200，mujoco131
 `python launch_experiment.py ./configs/[EXP].json`
 ## 实验结果
 Half-Cheetah-Fwd-Back
-![avatar](./AverageReturn_all_test_tasks cheetah-dir env steps.png)
+
+![avatar](AverageReturn_all_test_tasks cheetah-dir env steps.png)
+
+
 Half-Cheetah-Vel
 
 Ant-Fwd-Back
