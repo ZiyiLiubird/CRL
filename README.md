@@ -9,11 +9,16 @@ mujoco200，mujoco131
 ## 实验结果
 Half-Cheetah-Fwd-Back
 
-![avatar](AverageReturn_all_test_tasks cheetah-dir env steps.png)
-
+![avatar](cheetah-dir.png)
 
 Half-Cheetah-Vel
 
+![avatar](cheetah-vel-OOD.png)
+
 Ant-Fwd-Back
 
+![avatar](ant-dir.png)
+
 Humanoid-Direc-2D
+
+![avatar](humanoid-dir.png)
