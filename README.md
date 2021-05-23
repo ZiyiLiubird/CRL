@@ -1,24 +1,25 @@
 # VBFA
 
-环境要求：
-mujoco200，mujoco131
-请将mujoco200和mujoco131都安装，否则会报错；
+To install locally, you will need to first install mujoco200, mujoco131.
 
-运行代码，请执行：
+This installation has been tested only on 64-bit Ubuntu 16.04.
+
+To reproduce an experiment, run:
 `python launch_experiment.py ./configs/[EXP].json`
-## 实验结果
-Half-Cheetah-Fwd-Back
+
+## Results:
+**Half-Cheetah-Fwd-Back**
 
 ![avatar](cheetah-dir.png)
 
-Half-Cheetah-Vel
+**Half-Cheetah-Vel**
 
 ![avatar](cheetah-vel-OOD.png)
 
-Ant-Fwd-Back
+**Ant-Fwd-Back**
 
 ![avatar](ant-dir.png)
 
-Humanoid-Direc-2D
+**Humanoid-Direc-2D**
 
 ![avatar](humanoid-dir.png)
