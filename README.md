@@ -10,18 +10,15 @@ To reproduce an experiment, run:
 Our codes are built on PEARL: https://github.com/katerakelly/oyster
 
 ## Results:
-**Half-Cheetah-Fwd-Back**
+**Average rewards Ant-Fwd-Back**
 
-![avatar](cheetah-dir.png)
+![avatar](Average rewards Ant-Fwd-Back.png)
 
-**Half-Cheetah-Vel**
+**Average rewards Humanoid-Direc-2D**
 
-![avatar](cheetah-vel-OOD.png)
+![avatar](Average rewards Humanoid-Direc-2D.png)
 
-**Ant-Fwd-Back**
+**Average rewards Walker-2D-Params**
 
-![avatar](ant-dir.png)
+![avatar](Average rewards Walker-2D-Params.png)
 
-**Humanoid-Direc-2D**
-
-![avatar](humanoid-dir.png)
