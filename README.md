@@ -1,4 +1,4 @@
-# VBFA
+# CRL
 
 To install locally, you will need to first install mujoco200, mujoco131.
 
