@@ -1,8 +1,6 @@
 # CRL
 
-To install locally, you will need to first install mujoco200, mujoco131.
-
-This installation has been tested only on 64-bit Ubuntu 16.04.
+To install locally, you should install mujoco200 and mujoco131.
 
 To reproduce an experiment, run:
 `python launch_experiment.py ./configs/[EXP].json`
